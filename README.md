@@ -1,6 +1,6 @@
 # contextmenu_plus
 
- [![Pub Version](https://img.shields.io/pub/v/contextmenu?label=Published&logo=flutter&style=flat-square)](https://pub.dev/packages/contextmenu)
+ [![Pub Version](https://img.shields.io/pub/v/contextmenu_plus?label=Published&logo=flutter&style=flat-square)](https://pub.dev/packages/contextmenu_plus)
 
 Fork with [contextmenu](https://gitlab.com/TheOneWithTheBraid/contextmenu) with some improvements, thanks to the original project.
 

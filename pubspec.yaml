@@ -1,6 +1,6 @@
 name: contextmenu_plus
 description: Display a beautifully animated, material context menu using pure Flutter
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/monkeyWie/flutter_contextmenu_plus
 repository: https://github.com/monkeyWie/flutter_contextmenu_plus.git
 issue_tracker: https://github.com/monkeyWie/flutter_contextmenu_plus/issues

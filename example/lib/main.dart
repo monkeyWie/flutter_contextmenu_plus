@@ -1,4 +1,4 @@
-import 'package:contextmenu/contextmenu.dart';
+import 'package:contextmenu/contextmenu_plus.dart';
 import 'package:flutter/material.dart';
 
 void main() {
